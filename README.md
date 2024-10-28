@@ -1,6 +1,6 @@
 # Job Technology Analysis
 
-An analysis of the most used technologies in job postings, based on data collected from various companies within a 40 km radius of Edinburgh, sourced from LinkedIn.
+An analysis of the most used technologies in job postings, based on data collected from various companies within a 40 km radius of Edinburgh and London, sourced from LinkedIn.
 
 ## Files and Structure
 

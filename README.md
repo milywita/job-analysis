@@ -4,9 +4,12 @@ An analysis of the most used technologies in job postings, based on data collect
 
 ## Files and Structure
 
-- **`data/`**: Contains the original data file, `jobs.csv`.
-- **`images/`**: Contains generated visuals, like `top_technologies.png`.
+- **`data/`**: Contains the original data file, `jobs_edinburgh.csv`,`jobs_london.csv`.
+- **`images/`**: Contains generated visuals, like `edinburgh.png`, `london.png`.
 - **`analysis.ipynb`**: The Jupyter Notebook with code and analysis steps.
 
+## Edinburgh
+![Top 20 Edinburgh](images/edinburgh.png)
 
-![Top 20](images/top_tech.png)
+## London 
+![Top 20 London](images/london.png)

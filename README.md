@@ -12,9 +12,9 @@ An analysis of the most used technologies in job postings.
 
 ![Java Jobs](images/analysis-london-new/java.png)
 
-![Python Jobs](images/analysis-london-new/python.png.png)
+![Python Jobs](images/analysis-london-new/python.png)
 
-![Python Jobs](images/analysis-london-new/popular-london.png.png)
+![Python Jobs](images/analysis-london-new/popular-london.png)
 
 ## Edinburgh
 ![Top 20 Edinburgh](images/edinburgh.png)
